@@ -23,6 +23,6 @@ git clone https://github.com/robertkirkman/xfce4-panel-winxp-tc-git.git
 cd xfce4-panel-winxp-tc-git
 makepkg -si
 ```
-- To view the tweaked `xfce4-panel`, restart any instances of its binary (or log out and log into a session that automatically launches `xfce4-panel`.
+- To view the tweaked `xfce4-panel`, restart any instances of its binary (or log out and log into a session that automatically launches `xfce4-panel`).
 
 Based on [`xfce4-panel-git` from AUR](https://aur.archlinux.org/packages/xfce4-panel-git/).
