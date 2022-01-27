@@ -11,6 +11,7 @@ cd ..
 git clone https://aur.archlinux.org/libxfce4util-devel.git
 cd libxfce4util-devel
 makepkg -si
+cd ..
 ```
 - OR, if using an AUR helper:
 ```sh

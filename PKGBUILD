@@ -1,5 +1,5 @@
 _pkgname=xfce4-panel
-pkgname=${_pkgname}-git
+pkgname=${_pkgname}-winxp-tc-git
 pkgver=4.16.0+148+gd81b82b8.6402.d81b82b8.92de258b3fdbf9046979488b19147ebd
 pkgrel=1
 pkgdesc="Panel for the Xfce desktop environment - git version patched for Windows XP Total Conversion"
